@@ -35,7 +35,4 @@ public class CustomeDropDown {
          options.get(2).click();
        }
 
-
-       cd.close();
-
 }
